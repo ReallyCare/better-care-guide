@@ -1,0 +1,10 @@
+node_modules
+.tmp
+.vscode
+dist
+*.js
+*.html
+*.css
+*.less
+*.json
+*.md
